@@ -1,4 +1,5 @@
 /** Dark background on some views, skipping body or .ui so as to not override people's theme choice **/
+/** Last known working with Mastodon v4.3.2 hosted on Masto.host **/
 body.theme-default  {background-color:#121212; }
 .theme-default .drawer__inner__mastodon, .theme-default .drawer__inner {background-color:transparent; background:none;}
 .theme-default.layout-multiple-columns .search-results {background-color:#121212;}
